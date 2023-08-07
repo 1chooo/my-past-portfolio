@@ -2,9 +2,15 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/../Assets/Soumyajit_Behera-BIT_MESRA.pdf";
-import { AiOutlineDownload } from "react-icons/ai";
-import { Document, Page, pdfjs } from "react-pdf";
+import pdf from "../../Assets/../Assets/hugo_one_page_resume_2023.pdf";
+import { 
+  AiOutlineDownload 
+} from "react-icons/ai";
+import { 
+  Document, 
+  Page, 
+  pdfjs 
+} from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
