@@ -35,7 +35,7 @@
 
 ### How to start server and deploy
 
-Start Server
+Start Server in the localhost
 ```bash
 $ npm run start
 ```
