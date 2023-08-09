@@ -26,7 +26,7 @@
 ### 3. Add the homepage on the top of `package.json`
 
 ```js
-"homepage": "https://1chooo.github.io",
+"homepage": "https://your_user_name.github.io",
 ```
 
 ### 4. type `npm install`
