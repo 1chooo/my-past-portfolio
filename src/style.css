@@ -12,10 +12,16 @@ html {
   );
 
   --imp-text-color: #c770f0;
+
+  --bee-text-color: #E7BB5E;
 }
 
 .purple {
   color: var(--imp-text-color) !important;
+}
+
+.bee {
+  color: var(--bee-text-color)
 }
 
 button:focus {
