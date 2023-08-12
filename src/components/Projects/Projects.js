@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import uncleWets from "../../Assets/Projects/uncle_wets.png";
 import featherFeast from "../../Assets/Projects/feather_feast.jpg";
 import tank from "../../Assets/Projects/tank.png";
-import bearBear from "../../Assets/Projects/bear_bear.jpeg";
+import bearBear from "../../Assets/Projects/bear_bear.png";
 import evolvingBeasts from "../../Assets/Projects/evolving_beasts.jpg";
 
 function Projects() {
@@ -70,8 +70,8 @@ function Projects() {
               isBlog={false}
               title="Evolving Beasts"
               description="Developing..."
-              ghLink="https://github.com/1chooo/monster-bot"
-              demoLink="https://1chooo.github.io/monster-bot/"
+              ghLink="https://github.com/1chooo/evolving-beasts"
+              demoLink="https://1chooo.github.io/evolving-beasts/"
             />
           </Col>
 
