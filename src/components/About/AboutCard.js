@@ -22,7 +22,7 @@ function AboutCard() {
             <br />
             As part of my preparations, I am focusing on enhancing my
             programming skills in languages such as
-            <span className="purple"> GO, Flutter, and JavaScript. </span>
+            <span className="purple"> <code>GO</code>, Flutter, and JavaScript. </span>
             Additionally, I am actively studying
             <span className="purple"> Data structures and Algorithms </span>
             to further strengthen my technical expertise.
