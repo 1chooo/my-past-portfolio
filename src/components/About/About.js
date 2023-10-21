@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/hugo_aws.jpg";
+import laptopImg from "../../Assets/hugo_grad.png";
 import Toolstack from "./Toolstack";
 import HabitsStack from "./HabitsStack";
 
