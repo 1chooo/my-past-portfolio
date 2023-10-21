@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.9b5d5fee.css",
-    "main.js": "/static/js/main.fa891598.js",
+    "main.js": "/static/js/main.30cdab90.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hugo_grad.png": "/static/media/hugo_grad.358892684d7450ba43aa.png",
     "static/media/uncle_wets.png": "/static/media/uncle_wets.7bfc870c81efa0cf916c.png",
     "static/media/bear_bear.png": "/static/media/bear_bear.37185840528ae3ff08b6.png",
     "static/media/tank.png": "/static/media/tank.62072d17567e9f482840.png",
-    "static/media/hugo_aws.jpg": "/static/media/hugo_aws.ccca08cd39973d465109.jpg",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/hugo_one_page_resume_2023.pdf": "/static/media/hugo_one_page_resume_2023.0d0bb60a32445c2e4740.pdf",
     "static/media/feather_feast.jpg": "/static/media/feather_feast.18ba193286453d116f0b.jpg",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.9b5d5fee.css.map": "/static/css/main.9b5d5fee.css.map",
-    "main.fa891598.js.map": "/static/js/main.fa891598.js.map",
+    "main.30cdab90.js.map": "/static/js/main.30cdab90.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b5d5fee.css",
-    "static/js/main.fa891598.js"
+    "static/js/main.30cdab90.js"
   ]
 }
